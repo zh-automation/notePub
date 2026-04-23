@@ -4,7 +4,6 @@ draft: false
 tags:
   - guides
 ---
-
 All alarm AOIs have the same global AOI assigned to it. This AOI has a boolean tag called FirstOut. This is the reset logic for it:
 
 ```iecst

@@ -4,7 +4,6 @@ draft: false
 tags:
   - guides
 ---
-
 ## Step 1:
 ### Install Crimson 3.2
 - Either download the program online or execute the .msi or .exe file included
