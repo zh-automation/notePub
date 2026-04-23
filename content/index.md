@@ -16,3 +16,7 @@ tags:
 - [[Commissioning With Crimson 3.2]]
 - [[Configure VM for Activations | Configuring VMs for Activation Servers]]
 - [[How First Out Works | TAS First Out Explainer]]
+
+#### Personal
+- [[Resume]]
+- [[Portfolio/index | Portfolio]]

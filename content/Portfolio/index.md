@@ -1,3 +1,11 @@
+---
+title: Portfolio
+draft: false
+tags:
+  - portfolio
+  - projects
+---
+
 # Portfolio
 
 A collection of automation, controls, and programming projects I've built or contributed to throughout my career.
