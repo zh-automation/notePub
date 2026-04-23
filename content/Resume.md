@@ -7,8 +7,8 @@ Weatherford, Texas
 
 ## Contact
 
-- **Phone:** (682) 393-3715
-- **Email:** automax.redux@proton.me
+- **Email:** zach.harland@gmail.com
+- Work Email: zharland@txautosys.com
 - **LinkedIn:** [linkedin.com/in/zachary-harland-b568603aa](https://www.linkedin.com/in/zachary-harland-b568603aa)
 
 ---
@@ -27,7 +27,7 @@ Automation specialist and U.S. Air Force veteran with over 8 years of progressiv
 - **Electrical:** Panel building, equipment installation, electrical wiring, conduit routing, motor controls
 - **Programming:** Ladder logic, structured text, function block diagrams
 - **Networking:** Ethernet/IP, Modbus, RS-232/485, industrial networking
-- **Tools:** AutoCAD Electrical, RSLogix 500/5000, Connected Components Workbench
+- **Tools:** Fusion 360, KiCAD, RSLogix 500/5000, Connected Components Workbench
 
 ---
 
@@ -57,8 +57,8 @@ Automation specialist and U.S. Air Force veteran with over 8 years of progressiv
 
 *December 2020 – June 2022 · Azle, TX*
 
-- Programmed PLCs and HMIs for water/wastewater treatment facilities and municipal infrastructure
-- Developed ladder logic, alarm management, and trending configurations for SCADA systems
+- Programmed PLCs and HMIs for anhydrous ammonia compressor packages designed for commercial cooling and freezing systems
+- Developed navigation tools, alarm management, and trending configurations for SCADA systems
 - Commissioned control systems on-site, verifying I/O, communications, and process functionality
 - Created electrical schematics and control panel layouts for new installations
 - Supported remote monitoring and troubleshooting for existing client systems
