@@ -60,14 +60,13 @@ Automation specialist and U.S. Air Force veteran with over 8 years of progressiv
 - Programmed PLCs and HMIs for anhydrous ammonia compressor packages designed for commercial cooling and freezing systems
 - Developed navigation tools, alarm management, and trending configurations for SCADA systems
 - Commissioned control systems on-site, verifying I/O, communications, and process functionality
-- Created electrical schematics and control panel layouts for new installations
 - Supported remote monitoring and troubleshooting for existing client systems
 
 ### Electrical and Instrumentation Technician — Wellflex Energy Solutions
 
 *April 2018 – June 2020 · Rhome, TX*
 
-- Installed, calibrated, and maintained instrumentation on oil & gas well sites and production facilities
+- Installed instrumentation on prebuilt skids for frack sites
 - Wired and terminated field devices including pressure transmitters, RTDs, flow meters, and control valves
 - Performed conduit installation, cable tray routing, and panel terminations
 - Read and interpreted P&IDs, loop diagrams, and electrical schematics
