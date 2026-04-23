@@ -1,4 +1,10 @@
-# Public Automation Notes
+---
+title: Automation Notes
+draft: false
+tags:
+  - quartzHome
+---
+
 ### Automation Guides and Project Updates
 
 #### Guides:
