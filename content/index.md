@@ -19,4 +19,4 @@ tags:
 
 #### Personal
 - [[Resume]]
-- [[Portfolio/index | Portfolio]]
+- [[Portfolio/index |Portfolio]]
