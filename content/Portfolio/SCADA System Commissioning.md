@@ -1,3 +1,12 @@
+---
+title: SCADA System Commissioning
+draft: false
+tags:
+  - portfolio
+  - scada
+  - hmi
+---
+
 # SCADA System Commissioning
 
 ## Overview

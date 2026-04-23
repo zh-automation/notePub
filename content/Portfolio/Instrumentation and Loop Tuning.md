@@ -1,8 +1,14 @@
 ---
 title: Instrumentation and Loop Tuning
 draft: false
-tags: - portfolioProjects
---- 
+tags:
+  - portfolio
+  - instrumentation
+  - calibration
+---
+
+# Instrumentation and Loop Tuning
+
 ## Overview
 
 *Brief description — what type of instrumentation work was this? What facility or process?*
@@ -27,4 +33,3 @@ tags: - portfolioProjects
 
 ## Photos / Screenshots
 
-*Drag images here or link to them from your vault.*

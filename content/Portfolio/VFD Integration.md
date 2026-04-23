@@ -1,3 +1,12 @@
+---
+title: VFD Integration
+draft: false
+tags:
+  - portfolio
+  - vfd
+  - drives
+---
+
 # VFD Integration
 
 ## Overview

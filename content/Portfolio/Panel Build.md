@@ -1,3 +1,12 @@
+---
+title: Panel Build
+draft: false
+tags:
+  - portfolio
+  - panel
+  - electrical
+---
+
 # Panel Build
 
 ## Overview

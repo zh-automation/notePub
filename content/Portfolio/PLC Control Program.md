@@ -1,3 +1,12 @@
+---
+title: PLC Control Program
+draft: false
+tags:
+  - portfolio
+  - plc
+  - programming
+---
+
 # PLC Control Program
 
 ## Overview
