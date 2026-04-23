@@ -37,4 +37,4 @@ tags:
 
 ---
 
-**Related:** [[Guides/Commissioning With Crimson 3.2]]
+**Related:** [[Commissioning With Crimson 3.2]]
