@@ -1,3 +1,10 @@
+---
+title: Configuring VMs for Activation Servers
+draft: false
+tags:
+  - guides
+---
+
 ## Install
 Make sure you have:
 - Installed the Netbird client on your host machine

@@ -1,3 +1,10 @@
+---
+title: High Speed Counters in micro800s
+draft: false
+tags:
+  - programming-concepts
+---
+
 Programming a Micro850 for flow totalization involves a few distinct steps: configuring the hardware, reading the high-speed counter (HSC) value, and then performing the math to convert those pulses into flow rate and total volume.
 Here is a breakdown of what your program structure and logic should look like in Connected Components Workbench (CCW).
 1. Hardware Configuration

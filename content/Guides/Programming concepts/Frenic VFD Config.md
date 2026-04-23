@@ -1,3 +1,10 @@
+---
+title: Fuji Frenic-Eco Config
+draft: false
+tags:
+  - programming-concepts
+---
+
 To set up the FRENIC-Eco inverter for your application, you must configure the motor-specific characteristics and then assign command priority to the RS-485 port.
 
 ### 1. Setting Motor Data

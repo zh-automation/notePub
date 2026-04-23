@@ -1,3 +1,10 @@
+---
+title: Dynamic Density Level via Pressure
+draft: false
+tags:
+  - programming-concepts
+---
+
 ### Calculate density
 - First fill vessel to a known point:
 	- Note the locations of sight gauges, float switches, etc. anything that can independently verify the current height
