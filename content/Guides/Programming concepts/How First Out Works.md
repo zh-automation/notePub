@@ -78,5 +78,5 @@ TONR(LLAARTMR);
 This breaks down into these steps:
 
 - If you have LAAREn set to true AND there is a LL or LLShutdown active but the LLActive is not true THEN the timer is enabled.
-	- LLActive means that the conditions exist for a low low alarm, so here it is saying that LL and/or LLShutdown are set to true but the conditions for it no longer exist
+	- LLActive means that the conditions exist for a low low alarm, so here it is saying that LL and/or LLShutdown are latched to true but the conditions for it no longer exist
 - Once the LLDebounceOff timer completes (e.g. the .DN becomes true) then the LL and LLShutdown are reset to false given the conditions exist for them to do so
