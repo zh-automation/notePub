@@ -12,3 +12,4 @@ Industrial automation tends to have a lot of people with multiple hats. Some are
 Not all customers want to pay Ewon or Tosi ludicrous amounts of money for remote access. Here's a guide to give them so they can load their own Red Lion DA or HMI with a program.
 
 #### [[Configure VM for Activations]]
+When one of my workplaces decided to switch to a central activation server for our Rockwell software, I had to figure out how to use it with a VM as I didn't keep any Rockwell software on my bare metal OS. It's not hard by any means, but if you don't know, you don't know.

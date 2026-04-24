@@ -1,8 +1,9 @@
 ---
 title: PLC vs PC
 draft: false
-tags: - PLCBasics
---- 
+tags: 
+- PLCBasics
+---
 
 # Why is it a PLC?
 Why isn't it a PC? It is just a computer. A PLC (Programmable Logic Controller) has all the same basic components: CPU, RAM, storage, etc. So why can't a PC be a PLC? Well, it can and it often is, but even the PCs in industrial environments are considered separate from their peers. They're usually labeled IPCs (Industrial Personal Computer... not a great name) and, like PLCs they are usually differentiated in two ways.
