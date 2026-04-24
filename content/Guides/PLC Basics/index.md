@@ -1,8 +1,9 @@
 ---
 title: PLC Basics
 draft: false
-tags: - PLCBasic
---- 
+tags:
+  - PLCBasic
+---
 
 # Contents
 - [[Why PLCs]]

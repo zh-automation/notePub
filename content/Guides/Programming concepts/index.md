@@ -1,9 +1,9 @@
 ---
 title: Programming Concepts
 draft: false
-tags: 
-  - PLC 
---- 
+tags:
+  - PLC
+---
 
 ## What Happens in the Shadows
 Sometimes you come across situations that just don't happen very often. It's hard to justify the research and development time to invest in instruments or programming concepts that aren't all that likely to come up again. Here are some of those I've come across:
