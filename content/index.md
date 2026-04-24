@@ -11,10 +11,7 @@ tags:
 
 #### [[Quartz/Guides/Programming concepts/index|Programming Concepts]]
 
-#### Guides
-- [[Commissioning With Crimson 3.2]]
-- [[Configure VM for Activations | Configuring VMs for Activation Servers]]
-- [[How First Out Works | TAS First Out Explainer]]
+#### [[Quartz/Guides/Tools and Environments/index|Environments & Tooling]]
 
 #### Personal
 - [[Resume]]
