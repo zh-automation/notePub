@@ -1,7 +1,8 @@
 ---
 title: Programming Concepts
 draft: false
-tags: - PLC 
+tags: 
+	- PLC 
 --- 
 
 ## What Happens in the Shadows
