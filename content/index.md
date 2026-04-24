@@ -9,10 +9,7 @@ tags:
 
 #### [[Quartz/Guides/PLC Basics/index|PLC Basics]]
 
-#### Programming Concepts
-- [[Dynamic Density Level via Pressure | Dynamic Density]]
-- [[Frenic VFD Config | Fuji Frenic-Eco Config]]
-- [[HSC for flow in micro850 | High Speed Counters in micro800s]]
+#### [[Quartz/Guides/Programming concepts/index|Programming Concepts]]
 
 #### Guides
 - [[Commissioning With Crimson 3.2]]
