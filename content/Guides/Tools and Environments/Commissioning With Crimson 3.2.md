@@ -11,7 +11,7 @@ tags:
 ## Step 2:
 ### Open the Program
 - Click the File menu and click Open...
-- Find the program provided (should be Skid_1_20251231_1.cd32) and click Open
+- Find the program provided (should be FILENAME.cd32) and click Open
 ## Step 3:
 ### Connect to the Device
 - Generally, with a brand new device, the best bet is to connect a USB printer cable directly to the device and your laptop, with the type A side connected to your computer.
