@@ -7,6 +7,8 @@ tags:
 
 ### Automation Guides and Project Updates
 
+#### [[Quartz/Guides/PLC Basics/index|PLC Basics]]
+
 #### Programming Concepts
 - [[Dynamic Density Level via Pressure | Dynamic Density]]
 - [[Frenic VFD Config | Fuji Frenic-Eco Config]]
