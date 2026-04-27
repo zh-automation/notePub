@@ -4,7 +4,6 @@ draft: false
 tags:
   - PLCBasic
 ---
-
 # Contents
 - [[Why PLCs]]
 - Registers and Tags

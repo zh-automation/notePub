@@ -5,7 +5,7 @@ tags:
   - quartzHome
 ---
 
-### Automation Guides and Project Updates
+## Automation Guides
 
 #### [[Quartz/Guides/PLC Basics/index|PLC Basics]]
 
@@ -13,6 +13,6 @@ tags:
 
 #### [[Quartz/Guides/Tools and Environments/index|Environments & Tooling]]
 
-#### Personal
+### Personal
 - [[Resume]]
 - [[Portfolio/index |Portfolio]]
