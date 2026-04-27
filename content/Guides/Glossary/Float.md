@@ -12,4 +12,5 @@ A float is the numerical value of a 32-[[Bit|bit]] register interpreted as a flo
 ```python
 # Here the 
 var1 = 3.1415
+if (var1 == b#01101010011100001001001000000010)
 ```
