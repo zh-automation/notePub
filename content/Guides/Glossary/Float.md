@@ -7,10 +7,11 @@ tags:
   - Real
 ---
 ## Float
-A float is the datatype for a floating point decimal value. Depending on the context, it can be either a 32-[[Bit|bit]] or 64-bit value. A float has 3 parts, the sign (1 bit), the exponent (8 bits), then the mantissa which includes a leading hidden bit for indicating whether a number is a fraction of a number greater than/less than +/- 1 or a fraction of +/- 1 and the 23 bits for the data.
+A float is the datatype for a floating point decimal value. Depending on the context, it can be either a 32-[[Bit|bit]] or 64-bit value. A float has 3 parts, the sign (1 bit), the exponent (8 bits), then the mantissa which includes a leading hidden bit for indicating whether a number is a fraction of a number greater than/less than +/- 1 or a fraction of +/- 1 and the 23 bits for the data for a 32-bit float.
 
 ```python
-# Try this out in python. It will show you how a float is constructed in python
+# Try this out in python. It will show you how a float breaks down into its
+# 3 parts
 import struct
 
 def float_to_binary(f):
