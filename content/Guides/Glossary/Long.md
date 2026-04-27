@@ -6,4 +6,4 @@ tags:
   - Terminology
 ---
 ## Long
-A long, in this context, represents a datatype representing a 4 word value. In PLCs, this is most likely a 64-bit value. Long values can be integers, words and floats
+A long, in this context, represents a datatype representing double the number of bits as a [[Double|double]]. In PLCs, this is most likely a 64-bit value. Long values can be integers, words and floats
