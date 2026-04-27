@@ -5,7 +5,7 @@ tags:
   - PLCBasics
 ---
 
-If you have any experience with PLCs, you'll know that they usually come in 2 flavors: tag based and register based addressing. Depending on which you choose to (or have to) work with, it determines how your program is documented and planned. 
+If you have any experience with PLCs, you'll know that they usually come in 2 flavors: tag based and register based addressing. Depending on which you choose to (or have to) work with, determines how your program is documented and planned. 
 
 ### What is a register?
 Typically, a register is just a small data storage location in a computer. This can be in the storage drive, RAM, or even in the CPU itself among other places. Most anything that stores values electronically will have those values organized into registers. 
