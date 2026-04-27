@@ -6,4 +6,4 @@ tags:
   - Terminology
 ---
 ## Boolean
-A Boolean datatype is a variable or tag and is the logical representation of a [[Bit|bit]] in memory or the value that resulted from logic that can either be true or false assigned to that bit.
+A Boolean [[Datatype|datatype]] is an object that holds either a true or false value.
